@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<log><config>compress</config><date_time>2023-01-08 22:12:37</date_time><input_file>test.txt</input_file><output_file>testKomprese.bin</output_file><result>success</result></log>
+
+<log><config>decompress</config><date_time>2023-01-08 22:13:27</date_time><input_file>testKomprese.bin</input_file><output_file>testDekomprese.txt</output_file><result>success</result></log>
+</root>
